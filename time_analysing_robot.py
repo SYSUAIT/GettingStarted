@@ -210,7 +210,7 @@ def timelog(gotcha,data,occT):
     return occT
     
     
-    
-main()
+if __name__ == "__name__":
+	main()
         
         
