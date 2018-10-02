@@ -11,7 +11,8 @@ Created on Mon Aug 20 10:51:38 2018
 
 @author: benak
 """
-
+#菜鸡写的时间分析爬虫，因为是Python所以分析出来的数据误差较大
+#目前只有最简单的功能，，，还没有加入微信推送
 
 #from bs4 import BeautifulSoup
 #import bs4
@@ -87,7 +88,7 @@ def main():
         
     #观察的实例运行的时间
     occT=0
-    login_info = {"id":1,"params":{'username':'18938769727','passwd':'D27403daczq'}}
+    login_info = {"id":1,"params":{'username':'','passwd':''}}
     
     occT = login2next(login_info,occT,chk,obT)
     ans=occT/obT
