@@ -34,7 +34,7 @@
 
 ### Step 4
 Fork这个仓库  
-分别用Python和C++写Hello World  
-用Pull Request上传到这个仓库 
-
+(在Fork后的仓库) 创建以自己名字命名的文件夹  
+分别用Python和C++写Hello World并放在这个文件夹  
+用Pull Request上传到[此仓库](https://github.com/SYSUAIT/GettingStarted)  
 
