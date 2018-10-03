@@ -19,9 +19,9 @@
 去邮箱或者[这里](https://github.com/SYSUAIT)接受邀请
 
 ### Step 2
-安装Linux  
+##### 安装Linux  
 - 推荐版本：[Ubuntu](https://www.ubuntu.com/download/desktop)  
-安装方式  
+##### 安装方式  
 - 虚拟机（推荐）  
     + Windows用户：`VMWare`
     + Mac用户：`Parallels Desktop`  
