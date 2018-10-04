@@ -12,6 +12,7 @@
 （短期内可用，吃土少年哪天出不起服务器的钱可能就关了 :sob: ）
 
 ### 遇到不懂的首先去Google 尝试自己解决 
+[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 ### Step 1
 注册Github账号 (注册后可以用中大邮箱申请[教育优惠](https://education.github.com/))  
@@ -31,10 +32,14 @@
 ### Step 3
 安装Git  
 阅读[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
+建议在Ubuntu下安装Git：Ctrl+Alt+T打开终端，执行命令`sudo apt-get install git`  
+如果速度慢可以换源 [清华镜像](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)  
+Mac可以安装[HomeBrew](https://brew.sh/)  然后`brew install git`  
+[Windows安装教程](https://www.jianshu.com/p/414ccd423efc)
 
 ### Step 4
 Fork这个仓库  
-(在Fork后的仓库) 创建以自己名字命名的文件夹  
+(在Fork后的仓库的`任务提交`文件夹) 创建以自己名字命名的文件夹  
 分别用Python和C++写Hello World并放在这个文件夹  
 用Pull Request上传到[此仓库](https://github.com/SYSUAIT/GettingStarted)  
 
