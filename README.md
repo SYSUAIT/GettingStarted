@@ -14,7 +14,7 @@
 ### 遇到不懂的首先去Google 尝试自己解决 
 
 ### Step 1
-注册Github账号  
+注册Github账号 (注册后可以用中大邮箱申请[教育优惠](https://education.github.com/))  
 将账号发给技术部长  
 去邮箱或者[这里](https://github.com/SYSUAIT)接受邀请
 
